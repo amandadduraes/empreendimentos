@@ -1,0 +1,27 @@
+[
+  {
+    "construtora": "Construtora Dumbo",
+    "cidade": "Curitiba",
+    "area-do-terreno": 8000,
+    "numero-de-torres": 3,
+    "altura-da-torre": 32,
+    "area-da-torre": 2500
+  },
+  {
+    "construtora": "Construtora Charlie",
+    "cidade": "Belo Horizonte",
+    "area-do-terreno": 6000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 20,
+    "area-da-torre": 3000,
+    "area-de-lazer": 200
+  },
+  {
+    "construtora": "Construtora Marie",
+    "cidade": "Fortaleza",
+    "area-do-terreno": 4000,
+    "numero-de-torres": 1,
+    "altura-da-torre": 28,
+    "area-da-torre": 3500
+  }
+]

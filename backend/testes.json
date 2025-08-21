@@ -1,0 +1,19 @@
+[
+  {
+    "construtora": "Construtora Clotilde",
+    "cidade": "Minas Gerais",
+    "area-do-terreno": 10000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 25,
+    "area-da-torre": 3000,
+    "area-de-lazer": 1200
+  },
+  {
+    "construtora": "Construtora Kitty Kitty",
+    "cidade": "João Pessoa",
+    "area-do-terreno": 5000,
+    "numero-de-torres": 1,
+    "altura-da-torre": 35,
+    "area-da-torre": 2000
+  }
+]

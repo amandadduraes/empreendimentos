@@ -1,0 +1,52 @@
+[
+  {
+    "construtora": "Construtora Mar",
+    "cidade": "Rio de Janeiro",
+    "area-do-terreno": 10000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 25,
+    "area-da-torre": 3000
+  },
+  {
+    "construtora": "Construtora Lagoa",
+    "cidade": "Rio de Janeiro",
+    "area-do-terreno": 8000,
+    "numero-de-torres": 3,
+    "altura-da-torre": 28,
+    "area-da-torre": 2500
+  },
+  {
+    "construtora": "Construtora Paulista",
+    "cidade": "São Paulo",
+    "area-do-terreno": 7000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 40,
+    "area-da-torre": 2500,
+    "area-de-lazer": 800
+  },
+  {
+    "construtora": "Construtora Ibirapuera",
+    "cidade": "São Paulo",
+    "area-do-terreno": 6000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 20,
+    "area-da-torre": 3000,
+    "area-de-lazer": 200
+  },
+  {
+    "construtora": "Construtora Beira-Mar",
+    "cidade": "Fortaleza",
+    "area-do-terreno": 9000,
+    "numero-de-torres": 1,
+    "altura-da-torre": 28,
+    "area-da-torre": 2000
+  },
+  {
+    "construtora": "Construtora Pampulha",
+    "cidade": "Belo Horizonte",
+    "area-do-terreno": 5000,
+    "numero-de-torres": 2,
+    "altura-da-torre": 31,
+    "area-da-torre": 2200
+  }
+]
